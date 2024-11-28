@@ -1,0 +1,140 @@
+﻿  BDOR.cpp
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(7,7): error C2011: 'Offre': 'class' type redefinition
+  (compiling source file 'BDOR.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(7,7):
+      see declaration of 'Offre'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(15,7): error C2011: 'OffreSimple': 'class' type redefinition
+  (compiling source file 'BDOR.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(24,7): error C2011: 'Categorie': 'class' type redefinition
+  (compiling source file 'BDOR.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(4,14): error C2027: use of undefined type 'OffreSimple'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(4,14): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(4,62): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(4,63): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(6,19): error C2027: use of undefined type 'OffreSimple'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(6,19): error C2270: 'afficher': modifiers not allowed on nonmember functions
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(7,31): error C2065: 'nom_': undeclared identifier
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(10,33): error C2027: use of undefined type 'OffreSimple'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(10,33): error C2270: 'getNom': modifiers not allowed on nonmember functions
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(11,12): error C2065: 'nom_': undeclared identifier
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(15,12): error C2027: use of undefined type 'Categorie'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(15,12): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(15,12): error C2084: function 'int {ctor}(const std::string &)' already has a body
+      C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(4,14):
+      see previous definition of '{ctor}'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(15,58): error C2550: '{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(17,17): error C2027: use of undefined type 'Categorie'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(18,5): error C2065: 'offres_': undeclared identifier
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(21,17): error C2027: use of undefined type 'Categorie'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(21,17): error C2270: 'afficher': modifiers not allowed on nonmember functions
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(22,35): error C2065: 'nom_': undeclared identifier
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(23,30): error C2065: 'offres_': undeclared identifier
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(23,22): error C2530: 'offre': references must be initialized
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(23,22): error C3531: 'offre': a symbol whose type contains 'auto' must have an initializer
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(23,28): error C2143: syntax error: missing ';' before ':'
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.cpp(23,37): error C2143: syntax error: missing ';' before ')'
+  Iterator.cpp
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(7,7): error C2011: 'Offre': 'class' type redefinition
+  (compiling source file 'Iterator.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(7,7):
+      see declaration of 'Offre'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(15,7): error C2011: 'OffreSimple': 'class' type redefinition
+  (compiling source file 'Iterator.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(24,7): error C2011: 'Categorie': 'class' type redefinition
+  (compiling source file 'Iterator.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+  Journee.cpp
+  Reservation.cpp
+  Segment.cpp
+  tp4.cpp
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(7,7): error C2011: 'Offre': 'class' type redefinition
+  (compiling source file 'tp4.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(7,7):
+      see declaration of 'Offre'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(15,7): error C2011: 'OffreSimple': 'class' type redefinition
+  (compiling source file 'tp4.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Offre.hpp(15,7):
+      see declaration of 'OffreSimple'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\BDOR.hpp(24,7): error C2011: 'Categorie': 'class' type redefinition
+  (compiling source file 'tp4.cpp')
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\tp4.cpp(28,13): error C2027: use of undefined type 'Categorie'
+      C:\Users\shahr\Desktop\pr\tp4\tp4\Categorie.hpp(9,7):
+      see declaration of 'Categorie'
+  
+C:\Users\shahr\Desktop\pr\tp4\tp4\tp4.cpp(47,23): error C3861: 'creerVoyageDora': identifier not found
+C:\Users\shahr\Desktop\pr\tp4\tp4\tp4.cpp(50,24): error C3861: 'creerVoyageDiego': identifier not found
+C:\Users\shahr\Desktop\pr\tp4\tp4\tp4.cpp(53,25): error C3861: 'creerVoyageAlicia': identifier not found
+  Voyage.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory(700,82): error C2280: 'std::unique_ptr<Journee,std::default_delete<Journee>>::unique_ptr(const std::unique_ptr<Journee,std::default_delete<Journee>> &)': attempting to reference a deleted function
+  (compiling source file 'Voyage.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(3451,5):
+      see declaration of 'std::unique_ptr<Journee,std::default_delete<Journee>>::unique_ptr'
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\memory(3451,5):
+      'std::unique_ptr<Journee,std::default_delete<Journee>>::unique_ptr(const std::unique_ptr<Journee,std::default_delete<Journee>> &)': function was explicitly deleted
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory(700,82):
+      the template instantiation context (the oldest one first) is
+          C:\Users\shahr\Desktop\pr\tp4\tp4\Segment.hpp(10,43):
+          see reference to class template instantiation 'std::vector<std::unique_ptr<Journee,std::default_delete<Journee>>,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(676,5):
+          while compiling class template member function 'std::vector<std::unique_ptr<Journee,std::default_delete<Journee>>,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>::vector(const std::vector<std::unique_ptr<Journee,std::default_delete<Journee>>,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>> &)'
+              C:\Users\shahr\Desktop\pr\tp4\tp4\Segment.hpp(18,1):
+              see the first reference to 'std::vector<std::unique_ptr<Journee,std::default_delete<Journee>>,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>::vector' in 'Segment::Segment'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(680,9):
+          see reference to function template instantiation 'void std::vector<std::unique_ptr<Journee,std::default_delete<Journee>>,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>::_Construct_n<std::unique_ptr<Journee,std::default_delete<Journee>>*const &,std::unique_ptr<Journee,std::default_delete<Journee>>*const &>(const unsigned __int64,std::unique_ptr<Journee,std::default_delete<Journee>> *const &,std::unique_ptr<Journee,std::default_delete<Journee>> *const &)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\vector(2077,41):
+          see reference to function template instantiation 'std::unique_ptr<Journee,std::default_delete<Journee>> *std::_Uninitialized_copy<std::unique_ptr<Journee,std::default_delete<Journee>>*,std::unique_ptr<Journee,std::default_delete<Journee>>*,std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>(_InIt,_Se,std::unique_ptr<Journee,std::default_delete<Journee>> *,_Alloc &)' being compiled
+          with
+          [
+              _InIt=std::unique_ptr<Journee,std::default_delete<Journee>> *,
+              _Se=std::unique_ptr<Journee,std::default_delete<Journee>> *,
+              _Alloc=std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory(1833,18):
+          see reference to function template instantiation 'void std::_Uninitialized_backout_al<std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>>::_Emplace_back<std::unique_ptr<Journee,std::default_delete<Journee>>&>(std::unique_ptr<Journee,std::default_delete<Journee>> &)' being compiled
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.42.34433\include\xmemory(1779,35):
+          see reference to function template instantiation 'void std::_Default_allocator_traits<_Alloc>::construct<_Ty,std::unique_ptr<Journee,std::default_delete<Journee>>&>(_Alloc &,_Objty *const ,std::unique_ptr<Journee,std::default_delete<Journee>> &)' being compiled
+          with
+          [
+              _Alloc=std::allocator<std::unique_ptr<Journee,std::default_delete<Journee>>>,
+              _Ty=std::unique_ptr<Journee,std::default_delete<Journee>>,
+              _Objty=std::unique_ptr<Journee,std::default_delete<Journee>>
+          ]
+  
+  Generating Code...

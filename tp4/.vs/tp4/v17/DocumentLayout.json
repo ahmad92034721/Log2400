@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\tp4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\tp4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Categorie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Categorie.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Segment.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Segment.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Journee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Journee.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Reservation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Reservation.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Offre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Offre.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\BDOR.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\BDOR.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Iterator.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Voyage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Iterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\offre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\offre.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AA3ECE99-B16C-40DB-B409-E869CE87D4B7}|tp4\\tp4.vcxproj|solutionrelative:tp4\\Voyage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Categorie.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.cpp",
+              "RelativeDocumentMoniker": "tp4\\Categorie.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.cpp",
+              "RelativeToolTip": "tp4\\Categorie.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T01:06:48.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reservation.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.cpp",
+              "RelativeDocumentMoniker": "tp4\\Reservation.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.cpp",
+              "RelativeToolTip": "tp4\\Reservation.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:45:58.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.hpp",
+              "RelativeDocumentMoniker": "tp4\\Reservation.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Reservation.hpp",
+              "RelativeToolTip": "tp4\\Reservation.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T00:24:15.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Segment.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.hpp",
+              "RelativeDocumentMoniker": "tp4\\Segment.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.hpp",
+              "RelativeToolTip": "tp4\\Segment.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T00:23:42.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Voyage.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.hpp",
+              "RelativeDocumentMoniker": "tp4\\Voyage.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.hpp",
+              "RelativeToolTip": "tp4\\Voyage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T00:23:43.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BDOR.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.cpp",
+              "RelativeDocumentMoniker": "tp4\\BDOR.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.cpp",
+              "RelativeToolTip": "tp4\\BDOR.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:45:17.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Journee.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.hpp",
+              "RelativeDocumentMoniker": "tp4\\Journee.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.hpp",
+              "RelativeToolTip": "tp4\\Journee.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T00:24:39.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Categorie.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.hpp",
+              "RelativeDocumentMoniker": "tp4\\Categorie.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Categorie.hpp",
+              "RelativeToolTip": "tp4\\Categorie.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T01:06:19.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BDOR.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.hpp",
+              "RelativeDocumentMoniker": "tp4\\BDOR.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\BDOR.hpp",
+              "RelativeToolTip": "tp4\\BDOR.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T00:44:55.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tp4.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\tp4.cpp",
+              "RelativeDocumentMoniker": "tp4\\tp4.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\tp4.cpp",
+              "RelativeToolTip": "tp4\\tp4.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:28:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Journee.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.cpp",
+              "RelativeDocumentMoniker": "tp4\\Journee.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Journee.cpp",
+              "RelativeToolTip": "tp4\\Journee.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:25:54.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Offre.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Offre.hpp",
+              "RelativeDocumentMoniker": "tp4\\Offre.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Offre.hpp",
+              "RelativeToolTip": "tp4\\Offre.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T01:07:17.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Segment.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.cpp",
+              "RelativeDocumentMoniker": "tp4\\Segment.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Segment.cpp",
+              "RelativeToolTip": "tp4\\Segment.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:25:31.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Offre.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Offre.cpp",
+              "RelativeDocumentMoniker": "tp4\\Offre.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Offre.cpp",
+              "RelativeToolTip": "tp4\\Offre.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T01:07:54.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Iterator.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.cpp",
+              "RelativeDocumentMoniker": "tp4\\Iterator.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.cpp",
+              "RelativeToolTip": "tp4\\Iterator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T01:41:19.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Iterator.hpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.hpp",
+              "RelativeDocumentMoniker": "tp4\\Iterator.hpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Iterator.hpp",
+              "RelativeToolTip": "tp4\\Iterator.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T01:46:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Voyage.cpp",
+              "DocumentMoniker": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.cpp",
+              "RelativeDocumentMoniker": "tp4\\Voyage.cpp",
+              "ToolTip": "C:\\Users\\shahr\\Desktop\\pr\\tp4\\tp4\\Voyage.cpp",
+              "RelativeToolTip": "tp4\\Voyage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T00:25:06.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
