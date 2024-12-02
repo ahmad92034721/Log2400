@@ -1,0 +1,15 @@
+﻿m_nom,m_transporteur,m_noVol,m_lieuDepart,m_lieuArrivee,m_jourPrevuDepart,m_heurePrevueDepart,m_jourPrevuArrivee,m_heurePrevueArrivee,m_avion,m_classe,m_wifi,m_prixUnitaire,m_devise
+Air Canada AC 870 2024-10-26,Air Canada,AC 870,YUL,CDG,10/26/2024,21:20,10/27/2024,9:30,Airbus A330-300,Economique,true,1127,CAD
+Ryanair FR 5238 2024-10-26,Ryanair,FR 5238,RAK,BRU,10/26/2024,15:05,10/26/2024,19:35,Boeing 737,Economique,false,402,CAD
+Emirates EK 160 2024-10-27,Emirates,EK 160,OSL,DXB,10/27/2024,14:00,10/27/2024,23:55,Boeing 777,Affaires,true,3295,CAD
+Air Transat TS 844 2024-10-28,Air Transat,TS 844,YUL,FLL,10/28/2024,9:00,10/28/2024,13:02,Airbus A319,Economique,true,255,CAD
+TAP Air Portugal TP 0441 2024-10-29,TAP Air Portugal,TP 441,ORY,LIS,10/29/2024,6:40,10/29/2024,8:10,Airbus A321neo,Economique,true,378,CAD
+China Southern CZ 315 2024-10-29,China Southern,CZ 315,PKX,ICN,10/29/2024,19:15,10/29/2024,22:15,Airbus A321,Economique,false,101,CAD
+Japan Airlines JL 52 2024-10-30,Japan Airlines,JL 52,SYD,HND,10/30/2024,9:15,10/30/2024,16:55,Boeing 777,Economique,true,1125,CAD
+Air Canada AC 813 2024-10-31,Air Canada,AC 813,LIS,YUL,10/31/2024,10:55,10/31/2024,14:40,Boeing 787,Economique,true,1586,CAD
+Air China CA 864 2024-11-01,Air China,CA 864,ATH,PEK,11/1/2024,13:10,11/2/2024,5:10,Airbus A330,Affaires,false,6454,CAD
+Singapore Airlines SQ 495 2024-11-03,Singapore Airlines,SQ 495,DXB,SIN,11/3/2024,20:00,11/4/2024,7:15,Airbus A350,Economique,true,704,CAD
+easyJet 4592 2024-10-31,easyJet,4592,LIS,CDG,10/31/2024,10:15,10/31/2024,13:55,N/D,Economique,true,507,CAD
+Air Transat 111 2024-11-03,Air Transat,111,CDG,YUL,11/3/2024,10:30,11/3/2024,12:20,Airbus A330-200,Economique,true,719,CAD
+Air Europa 1026,Air Europa,1026,ORY,MAD,10/29/2024,19:25,10/29/2024,21:25,Boeing 737-800,Economique,true,100,CAD
+Air Europa 1025,Air Europa,1025,MAD,ORY,10/31/2024,16:30,10/31/2024,18:25,Boeing 737-800,Economique,true,100,CAD
